@@ -17,7 +17,7 @@ from gi.repository import Gtk, Gdk, GLib
 # File locations
 VERSION_FILE = get_relative_path("../utils/version.json")
 REMOTE_VERSION_FILE = "/tmp/remote_version.json"
-REMOTE_URL = "https://raw.githubusercontent.com/tr1xem/hyprfabricated/refs/heads/main/utils/version.json"
+REMOTE_URL = "https://raw.githubusercontent.com/Aishete/hyprfabricated/refs/heads/main/utils/version.json"
 REPO_DIR = get_relative_path("../")
 
 
